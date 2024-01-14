@@ -44,3 +44,5 @@ This template is made for `a4` paper size, but you can edit it to go with whatev
 The Zig Language support is created by us, and I will look into also distributing just the language support as a `.sty` file.
 
 This template is under the Creative Commons Attribution-ShareAlike 4.0 International License so you are free to use it for your own uses as well as for commercial purposes!
+
+Github: [https://github.com/Moka-Reads/MoKaReads-Template](https://github.com/Moka-Reads/MoKaReads-Template)

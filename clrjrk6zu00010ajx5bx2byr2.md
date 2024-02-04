@@ -30,6 +30,6 @@ The goal of this book is to be the **goto guide** of the Zig Programming Languag
 
 **Chapter 8:** Interfacing with C
 
-**Chapter 9:** Advance Topics
-
 Stay Tuned for more news about Zig Unleashed as we hope to release it this year as our first publication fro myself, Mustafif Khan and MoKa Reads.
+
+> Edit: Chapter 9 has been removed, and instead contents it will include will be merged into Chapter 8 where it can more concise.

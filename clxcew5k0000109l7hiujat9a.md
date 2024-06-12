@@ -223,3 +223,12 @@ Where do we hope to go from here?
 * Better refine Github release packages
     
 * See how to fetch in parallel when joining all asynchronous processes, which currently happens iteratively using `join_all`.
+    
+
+### Links
+
+* Github: [https://github.com/Moka-Reads/QuickFetch](https://github.com/Moka-Reads/QuickFetch)
+    
+* Crates.io: [https://crates.io/crates/quickfetch](https://crates.io/crates/quickfetch)
+    
+* Docs.rs: [https://docs.rs/quickfetch/0.1.1/quickfetch/](https://docs.rs/quickfetch/0.1.1/quickfetch/)

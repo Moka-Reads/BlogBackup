@@ -3,6 +3,7 @@ title: "QuickFetch `v0.3.0` Released!!!"
 datePublished: Sat Jul 13 2024 00:54:10 GMT+0000 (Coordinated Universal Time)
 cuid: clyjeyzqp000609la9s1fg1it
 slug: quickfetch-v030-released
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/LjqARJaJotc/upload/a4e8cabc8a01a97b27e658204e420fac.jpeg
 tags: opensource, rust
 
 ---
